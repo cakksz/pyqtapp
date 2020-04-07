@@ -1,1 +1,1 @@
-# pyqtapp
+# Aplikacja tworząca okna logowania
